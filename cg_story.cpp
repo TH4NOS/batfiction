@@ -21,7 +21,7 @@ scarecrow throws the fear toxin
 //insane trip level and fade out with scarecrow escaping
 //bruce escapes from arkham asylum
 fights thugs // joker laugh
-//joker dialogues
+//joker dialoguesm
 boss fight with joker and loses
 // get ready to use your eyes to control the batwing as we embark on the new feature 
 takes his plane and leaves //eye tribe moving -  1:30 min
