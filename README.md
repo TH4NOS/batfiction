@@ -9,4 +9,5 @@ Install Linux OpenGl packages
 and run the following command on your terminal
 
 `g++ <filename>.cpp -lGL -LGLU -lglut`
+
 `./a.out`
